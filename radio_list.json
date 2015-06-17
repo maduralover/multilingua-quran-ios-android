@@ -7,6 +7,6 @@
       {"radio_id":"4", "name":"rusradio", "url":"http://www.rusradio.com.ua/RusRadio.m3u", "img_url":"http://proxy11.media.online.ua/radio/r2-d2/004/073/151/4b67d70f713de.gif"},
       {"radio_id":"5", "name":"MusicRadio", "url":"http://online-musicradio.tavrmedia.ua/MusicRadio.m3u", "img_url":"http://musicradio.ua/music/Musicradio_logo.png"},
       {"radio_id":"6", "name":"radioroks", "url":"http://www.radioroks.com.ua/RadioROKS.m3u", "img_url":"http://www.radioroks.com.ua/images/Roks_logo_with_slogan.png"},
-      {"radio_id":"7", "name":"Nurja Streaming", "url":"http://smoke.wavestreamer.com:2929/listen.m3u?sid=1", "img_url":"https://scontent-sin1-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11429766_10204429480763231_6485699071336915102_n.jpg"}
+      {"radio_id":"7", "name":"Nurja Streaming", "url":"http://smoke.wavestreamer.com:4581/listen.m3u", "img_url":"https://scontent-sin1-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11429766_10204429480763231_6485699071336915102_n.jpg"}
 	]
 }
